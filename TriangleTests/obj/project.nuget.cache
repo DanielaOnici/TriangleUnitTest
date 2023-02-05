@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h3UvVhfThzp5JxICglmsaO9GCmYkvk+JZyu/gIj1PEXOdzhLnmfJGgmpdEEweT3xMKirEG4RZYU7dN52gXm8OA==",
+  "dgSpecHash": "fvI9UrSyEbEbVCzDcsK74gttDJFtlAZ+hswI340pCaPrIzq69S5V7p5XqmQFfdhhij9EhDsK/nGVyANwcZqiUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\Downloads\\TriangleSolver\\TriangleTests\\TriangleTests.csproj",
+  "projectFilePath": "C:\\Users\\danie\\projects\\TriangleSolver\\TriangleTests\\TriangleTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
